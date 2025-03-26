@@ -51,7 +51,7 @@ const Weather = () => {
                                 {weather.name},{weather.sys.country}
                             </div>
                             <div className='date'>
-                                {dateBuilder(new Date)}
+                                {dateBuilder(new Date())}
                             </div>
                             <div className='weather-box'>
                                 <div className='temp'>
