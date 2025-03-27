@@ -21,4 +21,4 @@ React.js
 CSS
 
 OpenWeather API
-
+you can view live page at=> https://ashish707917.github.io/Weather1/
